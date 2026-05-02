@@ -45,3 +45,5 @@ suporte-automatico-python/
 ├── sistema.py        # Coleta informações do sistema
 ├── rede.py           # Diagnóstico de rede e internet
 ├── relatorio.py      # Geração do relatório .txt
+
+
